@@ -56,9 +56,10 @@ h2 {
     font-size: 1.575em;
 }
 
-p {
-    font-size: 0.875em;
+h3 {
+    font-size: 1.2em;
 }
+
 
 ul {
     list-style-type: circle;
@@ -69,6 +70,7 @@ ul li {
 }
 
 p{
+  font-size: 1.02em;
     padding-bottom: 1em;
     line-height: 150%;
     text-align: justify;
@@ -106,17 +108,12 @@ p{
   margin-top:0.7em;
 }
 
-.tagline{
-  padding: 1.5em;
+.tagline, .skills, .contact{
+  padding: 1em 15% 1em 15%;
 }
 
 .skills{
-  padding: 1.5em;
   background-color: #b3e4ec;
-}
-
-.contact{
-  padding: 1.5em;
 }
 
 .skills h3, .tagline h3, .contact h3{
